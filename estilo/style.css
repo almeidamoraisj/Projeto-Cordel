@@ -6,7 +6,7 @@
     font-size: 1em;
 }
 :root {
-    --fonte1: Verdana, Geneva, Tahoma, sans-serif;
+    --fonte1: Verdana, Tahoma, sans-serif;
     --fonte2: 'Passion one', 'cursive';
     --fonte3: 'Sriracha', 'cursive';
 
@@ -87,6 +87,7 @@ section#img01 {
 }
 section#img02 {
         background-image: url('../imagens/background002.jpg');
+        background-position: right center;
 }
 
 footer {
